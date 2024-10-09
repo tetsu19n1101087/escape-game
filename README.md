@@ -2,7 +2,7 @@
 Web上で遊べる脱出ゲームです。  
 学校の授業の一環で、グループで制作しました。
 
-<img width="500" src="assets/images/douwa！！！_アートボード 1 のコピー 4.png">
+<img width="500" src="assets/images/background.png">
 
 ### [リンクはこちら](https://tetsu19n1101087.github.io/escape-game/)
 
